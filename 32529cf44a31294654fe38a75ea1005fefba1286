@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa3479d7_0f3f1a27",
+        "filename": "lineage.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 5530
+      },
+      "writtenOn": "2017-01-05T13:39:42Z",
+      "side": 1,
+      "message": "lineage_",
+      "revId": "32529cf44a31294654fe38a75ea1005fefba1286",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
